@@ -8,7 +8,7 @@ We study the dynamics of worms propagation across the WSN. A communication model
 
 
 
-
+<p align="center"><img src="one_step_final.png" width="100%" alt="" /></p>
 
 ## Prerequisites
 * `Python 3.8`
