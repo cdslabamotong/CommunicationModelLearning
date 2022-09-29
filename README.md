@@ -17,5 +17,9 @@ We study the dynamics of worms propagation across the WSN. A communication model
 * `scikit-learn 1.1.2`
 
 
-
+## Training
+Run the following command:
+```
+ComplexNN_Main_Run.py
+```
 
