@@ -19,7 +19,9 @@ We study the dynamics of worms propagation across the WSN. A communication model
 ## Usage
 
 ### Generating Data
-
+```
+Sample_Generating_Run.py
+```
 
 
 ### Training
