@@ -16,10 +16,17 @@ We study the dynamics of worms propagation across the WSN. A communication model
 * `ComplexPytorch 0.4`
 * `scikit-learn 1.1.2`
 
+## Usage
 
-## Training
+### Generating Data
+
+
+
+### Training
 Run the following command:
 ```
 ComplexNN_Main_Run.py
 ```
 
+## Acknowledgements
+Thanks to [wavefrontshaping / complexPyTorch](https://github.com/wavefrontshaping/complexPyTorch) for the getting us start with the code for Complex Valued Networks with PyTorch.
